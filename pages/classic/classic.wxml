@@ -1,0 +1,4 @@
+<!--pages/classic/classic.wxml-->
+<view>
+  <loner-like class="lonerLike"></loner-like>
+</view>

@@ -1,0 +1,8 @@
+<!--components/like/index.wxml-->
+<view class="linkContainer" bind:tap="isLike">
+  <image class="imageCon" src="{{ likeBoolean ? likePng : likeDis}}" />
+  <text class="textCon">{{likeNum}}</text>
+  <text class="" selectable="false" space="false" decode="false">
+    
+  </text>
+</view>

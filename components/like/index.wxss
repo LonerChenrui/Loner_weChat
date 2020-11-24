@@ -1,0 +1,16 @@
+/* components/like/index.wxss */
+.linkContainer {
+  display: inline-flex;
+  flex-direction: row;
+  position: relative;
+  padding: 10rpx 0;
+  line-height: 32rpx;
+}
+.linkContainer .imageCon {
+  width: 32rpx;
+  height: 28rpx;
+}
+.linkContainer .textCon {
+  position: relative;
+  top: -15rpx;
+}

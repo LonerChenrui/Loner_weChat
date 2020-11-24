@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "loner-like": "../../components/like"
+  }
+}
